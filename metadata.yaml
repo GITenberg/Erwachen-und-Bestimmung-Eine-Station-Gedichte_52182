@@ -1,0 +1,29 @@
+_repo: Erwachen-und-Bestimmung-Eine-Station-Gedichte_52182
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weber, Carl Maria
+    birthdate: 1890
+    deathdate: 1953
+    gutenberg_agent_id: '46711'
+    url: http://www.gutenberg.org/2009/agents/46711
+description: ''
+gutenberg_issued: '2016-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52182'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+- GITenberg
+tableOfContents: Auferstehung, Himmelfahrt -- Sendung -- Erneuerung -- Wann tagt der
+  Morgen, der die Feindschaft löst? -- „Vermißt“ -- Vor spätem Schlafengehen -- Ahasverlos
+  -- Das simple Lied -- Sünde und Sühne -- Erwachen und Bestimmung -- Erschießung
+  von Gefangenen in der Kathedrale zu Reims -- Egalité, Fraternité! -- Du auch, Tier,
+  mein Bruderwesen! -- Welt-Fühlen in der Opernpause.
+title: 'Erwachen und Bestimmung: Eine Station: Gedichte'
+url: http://www.gutenberg.org/ebooks/52182
